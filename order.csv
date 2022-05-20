@@ -1,0 +1,30 @@
+OrderID;CustomerID;EmployeeID;ShipName;ProductID;Quantity
+1;C1;6;Fresh products;23;2
+2;C1;6;Fresh products;24;4
+3;C1;6;Fresh products;25;10
+4;C1;6;Fresh products;10;22
+5;C2;5;restaurant Kiew;28;43
+6;C2;5;restaurant Kiew;27;35
+7;C2;5;restaurant Kiew;10;65
+8;C2;5;restaurant Kiew;5;32
+9;C3;4;Starbucks;3;51
+10;C3;4;Starbucks;1;21
+11;C3;4;Starbucks;7;22
+12;C4;1;Coffee Shop Neighbors;2;25
+13;C4;1;Coffee Shop Neighbors;4;42
+14;C4;1;Coffee Shop Neighbors;6;58
+15;C4;1;Coffee Shop Neighbors;9;43
+16;C5;2;Kaufland;26;4
+17;C5;2;Kaufland;21;10
+18;C5;2;Kaufland;20;22
+19;C5;2;Kaufland;12;43
+20;C5;2;Kaufland;8;35
+21;C6;3;Metro;13;65
+22;C6;3;Metro;14;32
+23;C6;3;Metro;15;51
+24;C6;3;Metro;16;21
+25;C7;7;Grandma's Bakery;18;22
+26;C7;7;Grandma's Bakery;19;25
+27;C7;7;Grandma's Bakery;17;42
+28;C8;8;Pizza HOT;21;58
+29;C8;8;Pizza HOT;27;43

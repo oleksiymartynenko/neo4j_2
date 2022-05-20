@@ -1,0 +1,8 @@
+EmployeeID;LastName;FirstName;Post;ReportsTo
+1;Carter;Jimmy;Sales Representative;2
+2;Bush;George ;Vice President, Sales;
+5;Reagan;Ronald ;Sales Manager;2
+6;Clinton;Bill ;Sales Representative;5
+7;Bush;George W. ;Sales Representative;5
+8;Obama;Barack ;Inside Sales Coordinator;2
+9;Trump;Donald J. ;Sales Representative;5
